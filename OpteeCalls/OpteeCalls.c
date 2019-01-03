@@ -5,7 +5,6 @@
 #include <windows.h>
 
 #include <winioctl.h>
-#include <ntddksec.h>
 #include <trustedrt.h>
 
 #include <stdio.h>
